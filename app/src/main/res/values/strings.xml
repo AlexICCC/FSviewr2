@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FSviewer</string>
+
+    <!-- FullscreenActivity -->
+    <string name="button">Настройки</string>
+
+
+    <!-- SettingsActivity -->
+    <string name="settings">Настройки</string>
+    <string name="folder">Папка</string>
+    <string name="pause">Пауза между картинками</string>
+    <string name="start">Запуск</string>
+    <string name="stop">Выключение</string>
+    <string name="save">Сохранить</string>
+    <string name="cancel">Отмена</string>
+
+
+    <string name="button_set">Установить</string>
+    <string name="button_cancel">Отменить</string>
+
+
+
+</resources>
